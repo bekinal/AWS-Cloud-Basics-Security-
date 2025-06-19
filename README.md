@@ -1,3 +1,7 @@
+The below AWS projects demonstrate my cloud readiness as a SOC Analyst. From cost anomaly detection and IAM hardening to WAF deployment and security group auditing, these labs reflect the breadth of knowledge needed to monitor, defend, and respond to threats in a modern cloud environment.
+
+---
+
 ## [AWS Instance Setup](https://github.com/bekinal/AWS-Instance-Setup/blob/main/README.md)
 This lab showcases my ability to provision and manage EC2 instances — the backbone of many cloud deployments. Understanding how these systems are deployed and accessed is essential for detecting unauthorized usage, improper configurations, and exposed services.
 
@@ -20,5 +24,3 @@ Managing multiple accounts under one umbrella is common in enterprise environmen
 Web Application Firewalls are a key defense against injection attacks, cross-site scripting, and bot activity. This lab reflects my understanding of deploying and customizing AWS WAF rules to **detect and block malicious HTTP/S traffic**, a critical responsibility in SOC operations protecting cloud apps.
 
 ---
-
-Together, these AWS projects demonstrate my cloud readiness as a SOC Analyst. From cost anomaly detection and IAM hardening to WAF deployment and security group auditing, these labs reflect the breadth of knowledge needed to monitor, defend, and respond to threats in a modern cloud environment.
