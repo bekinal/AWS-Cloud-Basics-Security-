@@ -22,5 +22,3 @@ Managing multiple accounts under one umbrella is common in enterprise environmen
 
 ## [AWS WAF Configuration](https://github.com/bekinal/AWS-WAF-Configuration/blob/main/README.md)
 Web Application Firewalls are a key defense against injection attacks, cross-site scripting, and bot activity. This lab reflects my understanding of deploying and customizing AWS WAF rules to **detect and block malicious HTTP/S traffic**, a critical responsibility in SOC operations protecting cloud apps.
-
----
